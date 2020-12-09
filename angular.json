@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "presupuesto"
+  "defaultProject": "presupuesto",
+  "cli": {
+    "analytics": "4a17d4c6-86f1-4c08-acef-06119f0007d9"
+  }
 }
